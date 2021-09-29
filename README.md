@@ -18,8 +18,7 @@ I would pick **Web Frontend**, and the below are my favorite tech stacks.<br>
 # Projects
 The followings are my most prominent projects.
 ## tiShare
-<img src="https://raw.githubusercontent.com/dlguswo333/tishare-docs/main/public/logo.svg" width="48px"/><br>
-![tishare-desktop](/img/tishare-desktop.png)<br>
+<img src="https://raw.githubusercontent.com/dlguswo333/tishare-docs/main/public/logo.svg" width="96px"/><br>
 
 tiShare is a GUI application which helps you
 share files and even folders within local area network,
@@ -51,7 +50,7 @@ Please take a look at the following links if you are interested.<br>
 </p>
 
 ## chatFile
-<img src="https://raw.githubusercontent.com/dlguswo333/chatFile-front/main/img/logo192.png" width="48px"/><br>
+<img src="https://raw.githubusercontent.com/dlguswo333/chatFile-front/main/img/logo192.png" width="96px"/><br>
 
 chatFile is a chat web application where you can chat with your friend and share files.<br>
 
