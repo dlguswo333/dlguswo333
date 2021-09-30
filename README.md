@@ -2,8 +2,16 @@ Hi, my name is Lee Hyeonjae, a student majoring in software.<br>
 
 I am interested in almost every part of computer science,
 but if I do need to tell what are my favorites,
-I would pick **Web Frontend**, and the below are my favorite tech stacks.<br>
+I would pick Web Frontend.<br>
 
+I think cloud service is one of the most popular computing services,
+and providing users UI and UX in a uniform way no matter what client devices are is important.
+The most common way to do that is through Web,
+and Web Frontend is at the front.
+
+Visit my [Github page](https://dlguswo333.github.io) if you want to know more about what I have done.<br>
+
+## Favorite Tech Stacks
 <p align="center">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=black"/>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=black"/>
