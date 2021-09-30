@@ -4,12 +4,12 @@ I am interested in almost every part of computer science,
 but if I do need to tell what are my favorites,
 I would pick Web Frontend.<br>
 
-I think cloud service is one of the most popular computing services,
+I think cloud service in an extended definition is one of the most popular computing services,
 and providing users UI and UX in a uniform way no matter what client devices are is important.
 The most common way to do that is through Web,
 and Web Frontend is at the front.
 
-Visit my [Github page](https://dlguswo333.github.io) if you want to know more about what I have done.<br>
+Visit my [Github page](https://dlguswo333.github.io) if you want to know more about what I have done, and who I am.<br>
 
 ## Favorite Tech Stacks
 <p align="center">
