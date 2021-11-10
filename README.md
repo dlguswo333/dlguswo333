@@ -1,4 +1,6 @@
-Hi, my name is Lee Hyeonjae, a student majoring in software.<br>
+Hi, my name is Lee Hyeonjae, a student majoring in software.
+
+<p align="center"><a href="https://dlguswo333.github.io/">Github Blog</a></p>
 
 I am interested in almost every part of computer science,
 but if I do need to tell what are my favorites,
@@ -22,6 +24,7 @@ Visit my [Github page](https://dlguswo333.github.io) if you want to know more ab
 <img alt="Github" src="https://img.shields.io/badge/Github-181717.svg?&style=flat-square&logo=Github&logoColor=white"/>
 <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC.svg?&style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </p>
+
 
 # Projects
 The followings are my most prominent projects.
