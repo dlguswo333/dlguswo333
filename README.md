@@ -29,7 +29,7 @@ The followings are my most prominent projects.
 ## tiShare
 <img src="https://raw.githubusercontent.com/dlguswo333/tishare-docs/main/public/logo.svg" width="96px"/><br>
 
-tiShare is a GUI application which helps you
+[tiShare](https://dlguswo333.github.io/tishare-docs/) is a GUI application which helps you
 share files and even folders within local area network,
 implemented with basic TCP and UDP sockets.<br>
 
